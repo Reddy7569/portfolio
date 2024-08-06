@@ -1,0 +1,60 @@
+.resume-container{
+  padding: 0px 25px;
+  font-family: "Poppins";
+  padding-bottom: 20px;
+}
+.resume-heading{
+  color: #b0d3e6;
+}
+.education{
+  padding-left: 20px;
+}
+.education-heading{
+  color: white;
+  font-size: 20px;
+  margin: 0px;
+}
+.education-container{
+  display: flex;
+  justify-content: flex-start;
+  overflow: hidden;
+  padding: 10px 0px;
+}
+.fa-graduate-cap{
+  color: #b0d3e6;
+  font-size: 25px;
+}
+.education-discription{
+  padding-left: 20px;
+}
+.course-name{
+  font-weight: bold;
+  font-size: 15px;
+  color: white;
+}
+.graduation-year{
+  color: #b0d3e6;
+  font-size: 15px;
+  font-weight: 10px;
+}
+.college-name{
+  margin: 0px;
+  color:#c0c0c0 ;
+}
+.skill{
+  background-color: #2b2b2cbf;
+  margin: 10px;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;;
+}
+.my-skills{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media (min-width:275px) and (max-width:750px) {
+  .resume-heading{
+    font-size: 20px;
+  }
+}

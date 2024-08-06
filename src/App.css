@@ -1,0 +1,19 @@
+.App{
+  padding: 15px 7%;
+  display: flex;
+  gap: 15px;
+  padding: 30px 7%;
+}
+.container{
+  background-color: #1e1e1f;
+  border: 2px solid #2b2b2cbf;
+  border-radius: 15px;
+  width: 100%;
+  margin: 0px;
+}
+@media (min-width:275px) and (max-width:1000px){
+  .App{
+    display: flex;
+    flex-direction: column;
+  }
+}

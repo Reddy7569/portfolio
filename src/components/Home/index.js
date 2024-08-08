@@ -1,3 +1,4 @@
+import React from 'react';
 import './index.css';
 import Profilecontainer  from '../Profilecontainer';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'

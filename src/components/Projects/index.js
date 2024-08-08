@@ -1,3 +1,4 @@
+import React from 'react';
 import bankingImg from './ProjectImages/banking.jpeg';
 import digitaTimer from './ProjectImages/digitaltimer.jpeg';
 import emojiGame from './ProjectImages/emojigame.jpeg';

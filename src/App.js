@@ -17,10 +17,10 @@ const App = () => {
         <div className="container">
           <Header />
           <Routes>
-            <Route exact path="/" element={<About />} />
-            <Route exact path="/resume" element={<Resume />} />
-            <Route exact path="/projects" element={<Projects />} />
-            <Route exact path="/contact" element={<Contact />} />
+            <Route exact path="portfolio/" element={<About />} />
+            <Route exact path="portfolio/resume" element={<Resume />} />
+            <Route exact path="portfolio/projects" element={<Projects />} />
+            <Route exact path="portfolio/contact" element={<Contact />} />
           </Routes>
         </div>
         <MobileNav/>

@@ -7,22 +7,22 @@ const MobileNav = () => (
     <nav className="nav-items-container">
       <ul className="nav-list-items">
         <li className="link-item">
-          <Link className="route-link" to="/">
+          <Link className="route-link" to="portfolio/">
             AboutMe
           </Link>
         </li>
         <li className="link-item">
-          <Link className="route-link" to="/resume">
+          <Link className="route-link" to="portfolio/resume">
             Resume
           </Link>
         </li>
         <li className="link-item">
-          <Link className="route-link" to="/projects">
+          <Link className="route-link" to="portfolio/projects">
             Projects
           </Link>
         </li>
         <li className="link-item">
-          <Link className="route-link" to="/contact">
+          <Link className="route-link" to="portfolio/contact">
             Contact
           </Link>
         </li>

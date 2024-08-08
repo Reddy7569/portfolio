@@ -1,3 +1,4 @@
+import React from 'react';
 import myImage from './my_image.png';
 import './index.css'
 const Profile_container = () => (

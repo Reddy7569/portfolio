@@ -1,9 +1,10 @@
-import './index.css';
+import React from 'react'
 import Profilecontainer  from '../Profilecontainer';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons';
 import { faMobile,faCalendarDays,faLocationDot } from '@fortawesome/free-solid-svg-icons'
 import { faFacebook, faTwitter, faInstagram } from '@fortawesome/free-brands-svg-icons';
+import './index.css';
 
 const Header = () => (
     <div id='header-container'>

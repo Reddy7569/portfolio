@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-import React from 'react'
-=======
 import React from 'react';
-import './index.css';
->>>>>>> b460b75606778a54a6e75c1a8cf444e33467e6fe
 import Profilecontainer  from '../Profilecontainer';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons';

@@ -1,3 +1,4 @@
+import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 // import { faEnvelope } from '@fortawesome/free-regular-svg-icons';
 import { faGraduationCap, faLaptopCode} from '@fortawesome/free-solid-svg-icons'

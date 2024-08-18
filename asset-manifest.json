@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0ba0f913.css",
-    "main.js": "/portfolio/static/js/main.2345a1de.js",
+    "main.css": "/portfolio/static/css/main.c4bec0b9.css",
+    "main.js": "/portfolio/static/js/main.74c0875f.js",
     "static/js/453.0f921908.chunk.js": "/portfolio/static/js/453.0f921908.chunk.js",
     "static/media/naturephoto.jpeg": "/portfolio/static/media/naturephoto.b7c89b67221adb57b622.jpeg",
     "static/media/nxtwatch.jpeg": "/portfolio/static/media/nxtwatch.f13220647618bcbd503e.jpeg",
@@ -13,12 +13,12 @@
     "static/media/banking.jpeg": "/portfolio/static/media/banking.e54fe7cc877c4435ea67.jpeg",
     "static/media/passwordmanager.jpeg": "/portfolio/static/media/passwordmanager.3002222bcc8ded0e6849.jpeg",
     "index.html": "/portfolio/index.html",
-    "main.0ba0f913.css.map": "/portfolio/static/css/main.0ba0f913.css.map",
-    "main.2345a1de.js.map": "/portfolio/static/js/main.2345a1de.js.map",
+    "main.c4bec0b9.css.map": "/portfolio/static/css/main.c4bec0b9.css.map",
+    "main.74c0875f.js.map": "/portfolio/static/js/main.74c0875f.js.map",
     "453.0f921908.chunk.js.map": "/portfolio/static/js/453.0f921908.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ba0f913.css",
-    "static/js/main.2345a1de.js"
+    "static/css/main.c4bec0b9.css",
+    "static/js/main.74c0875f.js"
   ]
 }

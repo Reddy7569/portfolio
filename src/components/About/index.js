@@ -7,7 +7,7 @@ import './index.css'
 const About = () => (
  <div className='about-container'>
      <h1 className='about-heading'>About Me </h1> 
-     <p className='about-content'>I'm MERN-Stack Developer from AndhraPradesh, India, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+     <p className='about-content'>I'm MERN-Stack Developer from Bangalore, Karnataka, India, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
        <br/> My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.</p>
      <div className='my-container'>
         <h1 className='wht-name'>What I'm Doing</h1>

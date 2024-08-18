@@ -14,7 +14,7 @@ import sqlite from './SkillsImages/sqlite.png'
 import mongodb from './SkillsImages/mongodb.png'
 import git from './SkillsImages/git.png'
 import github from './SkillsImages/github-logo.png'
-import react from './SkillsImages/sqlite.png'
+import react from './SkillsImages/react.png'
 
 const Resume = () => (
   <div className='resume-container'>

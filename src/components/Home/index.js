@@ -44,7 +44,7 @@ const Header = () => (
               </div>
               <div className='detail-content'>
                 <h4 className='detail-heading'>LOCATION</h4>
-                <a href='#location' className='tag-name'>AndhraPradesh,India</a>
+                <a href='#location' className='tag-name'>Bangalore, Karnataka, India</a>
               </div>
            </div>
         </div>

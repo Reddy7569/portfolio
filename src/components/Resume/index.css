@@ -57,4 +57,9 @@
   .resume-heading{
     font-size: 20px;
   }
+  .my-skills{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
 }

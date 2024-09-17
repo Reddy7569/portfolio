@@ -12,7 +12,7 @@ import './App.css';
 const App = () => {
   return (
     <div className="App">
-      <Router>
+      <Router basename='/portfolio'>
         <Home />
         <div className="container">
           <Header />

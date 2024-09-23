@@ -8,7 +8,7 @@ const Profile_container = () => (
             </div>
             <div>
                 <h1 className='profile-name'>Lakshmikanth</h1>
-                <p className='profile-description'>web Developer</p>
+                <p className='profile-description'>Web Developer</p>
             </div>
     </div>
 )

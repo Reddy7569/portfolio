@@ -7,22 +7,22 @@ const Header = () => (
     <nav className="nav-items-container">
       <ul className="nav-list-items">
         <li className="link-item">
-          <Link className="route-link" to="portfolio/">
+          <Link className="route-link" to="/">
             AboutMe
           </Link>
         </li>
         <li className="link-item">
-          <Link className="route-link" to="portfolio/resume">
+          <Link className="route-link" to="/resume">
             Resume
           </Link>
         </li>
         <li className="link-item">
-          <Link className="route-link" to="portfolio/projects">
+          <Link className="route-link" to="/projects">
             Projects
           </Link>
         </li>
         <li className="link-item">
-          <Link className="route-link" to="portfolio/contact">
+          <Link className="route-link" to="/contact">
             Contact
           </Link>
         </li>

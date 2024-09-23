@@ -17,7 +17,7 @@ const Header = () => (
               </div>
               <div className='detail-content'>
                 <h4 className='detail-heading'>EMAIL</h4>
-                <a href='mailto:lakshmikanthreddy51@gmail.com' className='tag-name'>lkreddy7569@gmail.com</a>
+                <a href='mailto:lakshmikanthreddy51@gmail.com' className='tag-name'>lakshmikanthreddy51@gmail.com</a>
               </div>
            </div>
            <div className='detail-container'>

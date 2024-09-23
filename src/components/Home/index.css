@@ -31,6 +31,9 @@ hr{
 }
 .detail-content{
     margin: 0px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 .detail-container{
     display: flex;
@@ -38,6 +41,7 @@ hr{
     padding: 25px 0px;
     justify-content: flex-start;
     align-items: center;
+    overflow: hidden;
 }
 .detail-icon-container{
     background-color: #2b2b2cbf;

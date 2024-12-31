@@ -17,9 +17,9 @@ const Projects = () => (
        <p className='projects-content'>See My Works Which Will Amaze You!<br/>We develop the best quality website that serves for the long-term. Well-documented, clean, easy and elegant interface helps any non-technical clients.</p>
        <div className='project-items'>
           <div className='project-item'>
-            <a target='-blank' href='https://reddy7569.github.io/money-manager/' class="image-container">
+            <a target='-blank' href='https://reddy7569.github.io/money-manager/' className="image-container">
                     <img src={bankingImg} alt="banking" className='projectimage'/>
-                    <div class="icon-overlay">
+                    <div className="icon-overlay">
                         <FontAwesomeIcon icon={faEye} className='fa-eye-icon' />
                     </div>
             </a>
@@ -27,9 +27,9 @@ const Projects = () => (
                 <p className='project-discription'>Web Development</p>
           </div>
           <div className='project-item'>
-            <a target='-blank' href='https://reddy7569.github.io/digital-timer/' class="image-container">
+            <a target='-blank' href='https://reddy7569.github.io/digital-timer/' className="image-container">
                     <img src={digitaTimer} alt="digitaltimer" className='projectimage'/>
-                    <div class="icon-overlay">
+                    <div className="icon-overlay">
                         <FontAwesomeIcon icon={faEye} className='fa-eye-icon' />
                     </div>
             </a>
@@ -37,9 +37,9 @@ const Projects = () => (
                 <p className='project-discription'>Web Development</p>
           </div>
           <div className='project-item'>
-            <a target='-blank' href='https://reddy7569.github.io/emoji-game/' class="image-container">
+            <a target='-blank' href='https://reddy7569.github.io/emoji-game/' className="image-container">
                     <img src={emojiGame} alt="emojigame" className='projectimage'/>
-                    <div class="icon-overlay">
+                    <div className="icon-overlay">
                         <FontAwesomeIcon icon={faEye} className='fa-eye-icon' />
                     </div>
             </a>
@@ -47,9 +47,9 @@ const Projects = () => (
                 <p className='project-discription'>Web Development</p>
           </div>
           <div className='project-item'>
-            <a target='-blank' href='https://reddy7569.github.io/match-game/' class="image-container">
+            <a target='-blank' href='https://reddy7569.github.io/match-game/' className="image-container">
                     <img src={matchGame} alt="matchgame" className='projectimage'/>
-                    <div class="icon-overlay">
+                    <div className="icon-overlay">
                         <FontAwesomeIcon icon={faEye} className='fa-eye-icon' />
                     </div>
             </a>
@@ -57,9 +57,9 @@ const Projects = () => (
                 <p className='project-discription'>Web Development</p>
           </div>
           <div className='project-item'>
-            <a target='-blank' href='https://reddy7569.github.io/gallery-app/' class="image-container">
+            <a target='-blank' href='https://reddy7569.github.io/gallery-app/' className="image-container">
                     <img src={naturePhoto} alt="naturephoto" className='projectimage'/>
-                    <div class="icon-overlay">
+                    <div className="icon-overlay">
                         <FontAwesomeIcon icon={faEye} className='fa-eye-icon' />
                     </div>
             </a>
@@ -67,9 +67,9 @@ const Projects = () => (
                 <p className='project-discription'>Web Development</p>
           </div>
           <div className='project-item'>
-            <a target='-blank' href='https://reddy7569.github.io/nxt-watch-app/' class="image-container">
+            <a target='-blank' href='https://reddy7569.github.io/nxt-watch-app/' className="image-container">
                     <img src={nxtWatch} alt="nxtwatch" className='projectimage'/>
-                    <div class="icon-overlay">
+                    <div className="icon-overlay">
                         <FontAwesomeIcon icon={faEye} className='fa-eye-icon' />
                     </div>
             </a>
@@ -77,9 +77,9 @@ const Projects = () => (
                 <p className='project-discription'>Web Development</p>
           </div>
           <div className='project-item'>
-            <a target='-blank' href='https://reddy7569.github.io/password-manager/' class="image-container">
+            <a target='-blank' href='https://reddy7569.github.io/password-manager/' className="image-container">
                     <img src={passwordManager} alt="passwordmanager" className='projectimage'/>
-                    <div class="icon-overlay">
+                    <div className="icon-overlay">
                         <FontAwesomeIcon icon={faEye} className='fa-eye-icon' />
                     </div>
             </a>
@@ -87,9 +87,9 @@ const Projects = () => (
                 <p className='project-discription'>Web Development</p>
           </div>
           <div className='project-item'>
-            <a target='-blank' href='https://reddy7569.github.io/prime-video/' class="image-container">
+            <a target='-blank' href='https://reddy7569.github.io/prime-video/' className="image-container">
                     <img src={primeVideo} alt="emojigame" className='projectimage'/>
-                    <div class="icon-overlay">
+                    <div className="icon-overlay">
                         <FontAwesomeIcon icon={faEye} className='fa-eye-icon' />
                     </div>
             </a>

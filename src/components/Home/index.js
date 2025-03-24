@@ -3,7 +3,7 @@ import Profilecontainer  from '../Profilecontainer';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons';
 import { faMobile,faCalendarDays,faLocationDot } from '@fortawesome/free-solid-svg-icons'
-import { faFacebook, faTwitter, faInstagram } from '@fortawesome/free-brands-svg-icons';
+import { faGithub,faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import './index.css';
 
 const Header = () => (
@@ -50,9 +50,8 @@ const Header = () => (
         </div>
         <hr className='rsp-hr'/>
         <div className='icon-container'>
-            <FontAwesomeIcon icon={faFacebook} className='fa-brand'/>
-            <FontAwesomeIcon icon={faTwitter} className='fa-brand'/>
-            <FontAwesomeIcon icon={faInstagram}  className='fa-brand'/>
+            <a  href='https://github.com/Reddy7569/' target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithub} className='fa-brand'/></a>
+            <a  href='https://www.linkedin.com/in/lakshmikanth-reddy-b637a3255/' target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin} className='fa-brand'/></a>
         </div>
     </div>
 )
